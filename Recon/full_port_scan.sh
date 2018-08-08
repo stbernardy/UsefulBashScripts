@@ -11,6 +11,9 @@ read ip
 #Runs masscan on specified target
 sudo bin/masscan -p0-65535 -Pn $ip --rate 100000 > output1.txt
 
+echo "Ports opened!"
+cat output1.txt
+
 #Cuts output in output1.txt to the port numbers
 cat output1.txt | cut -d ' ' -f 4 | cut -d '/' -f 1| xargs| sed -e 's/ /,/g' > output.txt
 
