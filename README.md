@@ -1,10 +1,10 @@
-# Pentester_scriptz
+# Useful scripts to make life a little easier
 
-Make sure you chmod 755 the .sh files so you can run them. Will continue to add scripts as I go through my labs.
+Make sure you chmod +x the .sh files so you can run them. 
 
 # What do these scripts do?
 
-These scripts utilize the Nmap scripting engine as well as using tools built into Unix 
+These scripts utilizes various built in programs in Kali as well as just helpful scripts 
 
 # What is the purpose of these script?
 
