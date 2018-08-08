@@ -1,0 +1,101 @@
+166.156.46.143	443	Verizon Wireless	143.sub-166-156-46.myvzw.com	
+181.42.0.108	161	Entel PCS Telecomunicaciones S.A.	client-181-42-0-108.imovil.entelpcs.cl	
+166.250.169.53	80	Verizon Wireless	53.sub-166-250-169.myvzw.com	
+166.165.10.207	8080	Verizon Wireless	207.sub-166-165-10.myvzw.com	
+166.156.46.95	80	Verizon Wireless	95.sub-166-156-46.myvzw.com	
+166.156.46.138	161	Verizon Wireless	138.sub-166-156-46.myvzw.com	
+166.156.131.216	443	Verizon Wireless	216.sub-166-156-131.myvzw.com	
+166.156.46.100	80	Verizon Wireless	100.sub-166-156-46.myvzw.com	
+174.90.171.106	8080	Bell Mobility		
+75.226.211.233	161	Verizon Wireless	233.sub-75-226-211.myvzw.com	
+166.156.46.135	21	Verizon Wireless	135.sub-166-156-46.myvzw.com	
+166.150.205.80	80	Verizon Wireless	80.sub-166-150-205.myvzw.com	
+166.156.46.92	443	Verizon Wireless	92.sub-166-156-46.myvzw.com	
+166.130.81.61	161	AT&T Wireless	mobile-166-130-81-61.mycingular.net	
+166.136.108.252	80	AT&T Wireless	mobile-166-136-108-252.mycingular.net	
+166.156.46.116	161	Verizon Wireless	116.sub-166-156-46.myvzw.com	
+46.77.68.47	161	Polkomtel Sp. z o.o.	apn-46-77-68-47.static.gprs.plus.pl	
+81.200.116.34	21	Beget Ltd		
+216.105.168.170	27015	US Dedicated		
+52.29.148.58	443	Amazon.com	ec2-52-29-148-58.eu-central-1.compute.amazonaws.com	
+95.192.250.138	161	TeliaSonera AB	host-95-192-250-138.mobileonline.telia.com	
+166.156.46.108	161	Verizon Wireless	108.sub-166-156-46.myvzw.com	
+166.142.92.252	80	Verizon Wireless	252.sub-166-142-92.myvzw.com	
+166.136.108.220	443	AT&T Wireless	mobile-166-136-108-220.mycingular.net	
+34.205.111.182	443	Amazon.com	ec2-34-205-111-182.compute-1.amazonaws.com	
+87.236.19.17	21	Beget Ltd	m2.spectre.beget.ru	
+75.195.33.210	21	Verizon Wireless	210.sub-75-195-33.myvzw.com	
+166.156.131.220	80	Verizon Wireless	220.sub-166-156-131.myvzw.com	
+186.37.126.3	161	Entel PCS Telecomunicaciones S.A.	client-186-37-126-3.imovil.entelpcs.cl	
+185.19.205.231	21	ISP Invest Mobile LLC		
+166.156.131.219	80	Verizon Wireless	219.sub-166-156-131.myvzw.com	
+166.142.92.240	23	Verizon Wireless	240.sub-166-142-92.myvzw.com	
+35.190.19.213	443	Google Cloud	213.19.190.35.bc.googleusercontent.com	
+166.156.46.99	161	Verizon Wireless	99.sub-166-156-46.myvzw.com	
+35.202.95.216	80	Google Cloud	216.95.202.35.bc.googleusercontent.com	
+166.142.67.83	443	Verizon Wireless	83.sub-166-142-67.myvzw.com	
+190.91.157.164	161	Entel PCS Telecomunicaciones S.A.	client-190-91-157-164.imovil.entelpcs.cl	
+166.165.10.208	161	Verizon Wireless	208.sub-166-165-10.myvzw.com	
+81.200.112.166	21	Beget Ltd		
+166.150.205.75	80	Verizon Wireless	75.sub-166-150-205.myvzw.com	
+185.19.205.81	21	ISP Invest Mobile LLC		
+90.236.240.41	161	TeliaSonera AB	host-90-236-240-41.mobileonline.telia.com	
+166.155.54.80	23	Verizon Wireless	80.sub-166-155-54.myvzw.com	
+166.136.108.252	443	AT&T Wireless	mobile-166-136-108-252.mycingular.net	
+166.148.5.90	161	Verizon Wireless	90.sub-166-148-5.myvzw.com	
+166.156.46.135	443	Verizon Wireless	135.sub-166-156-46.myvzw.com	
+166.250.81.102	8080	Verizon Wireless	102.sub-166-250-81.myvzw.com	
+181.42.8.200	161	Entel PCS Telecomunicaciones S.A.	client-181-42-8-200.imovil.entelpcs.cl	
+166.150.205.85	80	Verizon Wireless	85.sub-166-150-205.myvzw.com	
+166.156.190.16	80	Verizon Wireless	16.sub-166-156-190.myvzw.com	
+107.80.215.175	161	AT&T Wireless	mobile-107-80-215-175.mycingular.net	
+185.19.205.253	21	ISP Invest Mobile LLC		
+35.190.19.152	443	Google Cloud	152.19.190.35.bc.googleusercontent.com	
+190.91.33.41	161	Entel PCS Telecomunicaciones S.A.	client-190-91-33-41.imovil.entelpcs.cl	
+66.172.6.50	443	Cyberverse		
+34.234.103.177	443	Amazon.com	ec2-34-234-103-177.compute-1.amazonaws.com	
+166.156.131.238	80	Verizon Wireless	238.sub-166-156-131.myvzw.com	
+186.37.55.240	161	Entel PCS Telecomunicaciones S.A.	client-186-37-55-240.imovil.entelpcs.cl	
+188.125.46.117	161	Polkomtel Sp. z o.o.	apn-188-125-46-117.static.gprs.plus.pl	
+216.196.229.254	161	Fuse Internet Access	254.229.196.216.ded-dsl.fuse.net	
+181.42.252.120	161	Entel PCS Telecomunicaciones S.A.		
+166.150.205.87	21	Verizon Wireless	87.sub-166-150-205.myvzw.com	
+5.101.155.209	21	Beget Ltd		
+186.37.2.188	80	Entel PCS Telecomunicaciones S.A.	client-186-37-2-188.imovil.entelpcs.cl	
+35.194.219.141	80	Google Cloud	141.219.194.35.bc.googleusercontent.com	
+166.156.46.111	23	Verizon Wireless	111.sub-166-156-46.myvzw.com	
+166.156.46.143	161	Verizon Wireless	143.sub-166-156-46.myvzw.com	
+49.212.116.227	80	SAKURA Internet	227.116.212.49.static.www7899m.sakura.ne.jp	
+186.37.2.126	80	Entel PCS Telecomunicaciones S.A.	client-186-37-2-126.imovil.entelpcs.cl	
+166.157.167.62	161	Verizon Wireless	62.sub-166-157-167.myvzw.com	
+75.250.133.189	161	Verizon Wireless	189.sub-75-250-133.myvzw.com	
+145.239.5.6	27015	OVH Hosting	london.spectre.gg	
+166.130.84.62	443	AT&T Wireless	mobile-166-130-84-62.mycingular.net	
+166.143.242.223	443	Verizon Wireless	223.sub-166-143-242.myvzw.com	
+90.235.73.105	161	TeliaSonera AB	host-90-235-73-105.mobileonline.telia.com	
+166.130.131.77	443	AT&T Wireless	mobile-166-130-131-77.mycingular.net	
+166.143.238.165	443	Verizon Wireless	165.sub-166-143-238.myvzw.com	
+81.200.118.11	21	Beget Ltd		
+120.157.84.106	80	Telstra Internet		
+186.37.48.44	161	Entel PCS Telecomunicaciones S.A.	client-186-37-48-44.imovil.entelpcs.cl	
+74.142.179.46	161	Time Warner Cable	rrcs-74-142-179-46.central.biz.rr.com	
+31.0.218.65	161	Polkomtel Sp. z o.o.	apn-31-0-218-65.static.gprs.plus.pl	
+35.197.27.248	443	Google Cloud	248.27.197.35.bc.googleusercontent.com	
+166.156.131.243	23	Verizon Wireless	243.sub-166-156-131.myvzw.com	
+35.190.19.213	80	Google Cloud	213.19.190.35.bc.googleusercontent.com	
+166.142.54.145	161	Verizon Wireless	145.sub-166-142-54.myvzw.com	
+166.156.131.238	161	Verizon Wireless	238.sub-166-156-131.myvzw.com	
+166.156.131.231	443	Verizon Wireless	231.sub-166-156-131.myvzw.com	
+166.156.46.92	161	Verizon Wireless	92.sub-166-156-46.myvzw.com	
+166.156.46.128	80	Verizon Wireless	128.sub-166-156-46.myvzw.com	
+166.150.205.78	80	Verizon Wireless	78.sub-166-150-205.myvzw.com	
+166.156.131.220	21	Verizon Wireless	220.sub-166-156-131.myvzw.com	
+186.11.11.166	161	Entel PCS Telecomunicaciones S.A.	client-186-11-11-166.imovil.entelpcs.cl	
+166.156.46.127	21	Verizon Wireless	127.sub-166-156-46.myvzw.com	
+166.156.131.226	443	Verizon Wireless	226.sub-166-156-131.myvzw.com	
+166.150.205.64	443	Verizon Wireless	64.sub-166-150-205.myvzw.com	
+186.11.14.98	161	Entel PCS Telecomunicaciones S.A.	client-186-11-14-98.imovil.entelpcs.cl	
+186.37.146.192	161	Entel PCS Telecomunicaciones S.A.	client-186-37-146-192.imovil.entelpcs.cl	
+166.142.95.164	161	Verizon Wireless	164.sub-166-142-95.myvzw.com	
+81.200.114.4	21	Beget Ltd		
+

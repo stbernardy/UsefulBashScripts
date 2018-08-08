@@ -1,0 +1,11 @@
+To use this script, you must give it executable permissions
+
+"sudo chmod 755 zonetransfer.sh"
+
+From there you will run in your Unix terminal:
+"./zonetransfer.sh"
+
+
+This script will gather the NS (Name Servers)records of a domain and request to do a zone transfer. To read more on zone transfers, go to https://en.wikipedia.org/wiki/DNS_zone_transfer
+
+DO NOT USE THIS WITHOUT PERMISSION, THE CREATOR OF THIS SCRIPT BEARS NO LIABILITY FOR USE OF THIS SCRIPT.

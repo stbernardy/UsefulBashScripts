@@ -1,0 +1,9 @@
+To use this you will need to install the Shodan CLI
+
+Go to https://cli.shodan.io and follow the instructions
+
+#What does this script do?
+
+Allows you to search for specific terms (Webcam, ms17-010, etc) and outputs in a "output.txt" file.
+
+Don't forget to chmod 755 this file
