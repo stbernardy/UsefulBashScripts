@@ -1,14 +1,11 @@
-#!/bin/bash/
+# Download masscan:https://github.com/robertdavidgraham/masscan/
+# Make sure you are in the masscan-master directory
+# Look no further, this is script utilizes Mass Scan and takes the port numbers found and does an in depth scan via Nmap
+# Author Cody Bernardy
 
-#Download masscan:https://github.com/robertdavidgraham/masscan/ 
-#Make sure you are in the masscan-master directory 
-#Look no further, this is script utilizes Mass Scan and takes the port numbers found and does an in depth scan via Nmap
-#Author Cody Bernardy
-
-echo"Don't forget to chmod +x"
-echo"Script requires that you are in the masscan directory, see script comments"
-
-echo"Enter target ip(s)"
+echo "Don't forget to chmod +x"
+echo "Script requires that you are in the masscan directory, see script comments"
+echo "Enter target ip(s)"
 read ip
 
 #Runs masscan on specified target
