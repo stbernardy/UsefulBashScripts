@@ -1,0 +1,2 @@
+This will only work on a Debian based linux distribution, iptables does not exist on Mac
+will need to work on a conditional for useability on MacOS.
